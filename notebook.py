@@ -1,3 +1,3 @@
-Import the pandas library as pd
-Import the Numpy library as np
+Import pandas library as pd
+Import Numpy as np
 print("Hello Capstone Project Course!")
